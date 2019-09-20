@@ -7,7 +7,7 @@ ssh = new node_ssh();
 
 // the method that starts the deployment process
 function main() {
-  console.log('Deployment started.');
+  console.log('Deployment started now.');
   sshConnect();
 }
 
